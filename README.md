@@ -1,115 +1,146 @@
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗ꫂ<br></h1>
-<p align="center">
-  <img src="https://telegra.ph/file/8adfac9d34c43ce444fbf.jpg" width="540" height="300" />
+<div align="center">
+<div align="center">
+  <p align="center">
+<img src=https://i.imgur.com/KQNudAW.png>
+</p>
+ </a>
 </p>
 
-<p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
+
+
+
+
+# 𝐼𝓉𝟧 𝑀𝟥 𝑀𝟨_𝟤
+
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/F5zhbpM.jpg" width="200" height="200"/>
 
 <p align="center">
-<a href="https://youtu.be/imFIX-Wrt3s"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+  <a href="https://www.instagram.com/i_am__m_r__z/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/50378165999"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-------
-
-# ```Bot Info```
+## <!-- Typing SVG -->
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+    <a href="https://github.com/Fadilzain">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=PBA+BoT+Is+A+Modified+Version+of;Wizard+Ser+By+Ajmal;Do+Support+PBA+MoDs;Thanks+To;Alien-Alfa+,PBA+MoDs+Team."
+            alt="Typing SVG"
+        />
+    </a>
 </p>
-<p align='center'>
-    </p>
+
+## ```HOW TO DEPLOY```
+`Watch how to deploy PBA BoT v1 without any erorr. Watch more videos on PBA MoDs`
+
+[`Click for watch video`](https://youtube.com/channel/UCxkxhbcHQb2B8JH3j-UVArQ)
+
+----------
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCxkxhbcHQb2B8JH3j-UVArQ/videos"><img src="https://i.imgur.com/Y2576FG.jpg" />
+</p>
 
 -------
+## HOW TO SETUP
 
-## ```Connect With Me```
-<p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
-</p>
 
-## ```Donate Me```
+  ### HOW TO DEPLOY PBA BoT v1 , FOLLOW THIS STEPS
+  
+1. CREATE A GITHUB ACCOUNT [GIT HUB SIGN UP](https://github.com/signup/)
 
-- [`FamPay`](https://telegra.ph/file/69933531032d509ff9e54.jpg)
+2. OPEN WHAT'S ACCOUNT WHERE YOU WANT TO CREATE THE BoT AND GO INTO THE LINK DEVICE AND SCAN THE QR CODE CLICK [SCAN QR]
+  ## `SCAN QR`
 
-<p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
-</p>
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@I4MBetAZ/pbabot?v=1)
+  
+3. YOU WILL HAVE TO FORK THIS REPO FOR DEPLOY VIA HEROKU.
+  CLICK HERE TO FORK THIS REPO
+ Click [FORK](https://github.com/I4MBetAZ/PBA-BoT-V1/fork)
+  
+4. GIVE CLIENT ID IN THE SESSIONDATA.JS  
+ 
+5. CREATE ACCOUNT IN HEROKU [Heroku](https://signup.heroku.com/) 
+  
 
-## ```Bot Support Groups```
+  
+6. NOW https://heroku.com/deploy?template=https://github.com/I4MBetAZ/PBA-BoT-V1 COPY THIS URL AND CHANGE I4MBetAZ WITH YOUR GITHUB USERNAME AND CLICK GO<br> 
+  
+7. TURN OFF WEB NODE SERVER SWITCH AND TURN ON THE NPM START ❗🛑
 
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
+## `DEPLOY`
 
-# Setup For Deployment 👇
+PBA BoT PrIVet Deploy Don`t Click
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/I4MBetAZ/PBA-BoT-V1) 
+----------
 
-## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L25)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L30)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L29)
-
-## ` BUILDPACKS`
+## `ADD BUILDPACK`
 
 ```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 heroku/nodejs
 ```
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+```
+```
+https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD/)
+## `CHANGE DYNO`
+  
+  'ᵀᵁᴿᴺ ᴼᶠᶠ ᵂᴱᴮ ᴺᴼᴰᴱ ˢᴱᴿⱽᴱᴿ ᴬᴺᴰ ᴱᴺᴬᴮᴸᴱ ᵂᴼᴿᴷᴱᴿ ᴺᴾᴹ ˢᵀᴬᴿᵀ'
 
-# Install Manually 👇
-## `Requirements`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-## `Clone Repo & Installation dependencies`
-```bash
-git clone https://github.com/DGXeon/CheemsBot-MD.git
-cd CheemsBot-MD
-npm start
-```
-## `For Termux/Ssh/Ubuntu`
-```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD
-cd CheemsBot-MD
-npm start
-```
-## `For VPS`
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagemagick
-apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD
-cd CheemsBot-MD
-npm start
-```
-## `For 24/7 Activation`
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
+<p align="center">
+  <a href="https://github.com/I4MBetAZ/PBA-BoT-V1"><img src="https://i.imgur.com/X8SNXXz.jpeg" />
+</p>
+
+## 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://i.imgur.com/86GzhOq.jpg)](https://chat.whatsapp.com/CD49cbo7JcfAUuHgleJAQl)
+  
+   [![join](https://i.imgur.com/R7L8wt9.jpg)](https://chat.whatsapp.com/D3fhKLgNybo7RP4TEKgrFc)
+  <div align="center">
+
+
+## Developers
+  <p align="center">
+  <a href="https://github.com/alien-alfa"><img src="https://i.imgur.com/TTc6d2r.jpg" />
+     
+ 
+    
+    Bug Fixes, Modules, Commits
+    
+ 
+      
+  <a href="https://github.com/I4MBetAZ"><img src="https://i.imgur.com/DFnPlsK.jpg" />
+    
+    
+    RE-DEVELOPER,BUG FIXES
+    
+    
+    ᴾᴮᴬ ᴹᴼᴰˢ ᵀᴱᴬᴹ
+    
+    
+   <a href="https://youtube.com/channel/UCxkxhbcHQb2B8JH3j-UVArQ"><img src="https://i.imgur.com/86GzhOq.jpg" />
+     </P>
+    
+    
+   <p align="center">
+        
+   <a href="https://www.instagram.com/cyber__drago/"><img src="https://i.imgur.com/HwfYo9C.jpg" />
+     
+ <a href="https://github.com/CRAZY-PREDATOR"><img src="https://i.imgur.com/39JUPeF.jpg" />
+             
+ <a href="https://www.youtube.com/channel/UCuCOXMDn89w_qK720mFZteA"><img src="https://i.imgur.com/Y4Grt4u.jpg" />
+   
+   <a href="http://www.instagram.com/jacksparrow_ofc"><img src="https://i.imgur.com/48ULZXZ.jpg" />
+   </P>
+   
+   
+   ＴＨＡＮＫＳ ＴＯ ＡＬＬ．．．．♥
+   
+   
+  </div
