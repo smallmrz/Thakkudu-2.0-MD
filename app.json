@@ -2,7 +2,7 @@
   "name": "Thakkudu 2.0-MD",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/I4MBetAZ/Thakkudu-2.0-MD",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "logo": "https://telegra.ph/file/2ce1cdc8ac3775ac4ee9b.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
