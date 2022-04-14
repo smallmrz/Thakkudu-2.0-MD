@@ -24,7 +24,7 @@
 <p align="center">
     <a href="https://github.com/Fadilzain">
         <img
-       src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Thakkudu+2.0-MD+Is+A+Modified+Version+of;Cheems+BoT-MD+By+DGXeon;Do+Support+PBA+MoDsYT;Thanks+To;Alien-Alfa+,AJMAL+PBA+MODS+Team."
+       src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Thakkudu+2.0-MD+Is+A+Modified+Version+of;Cheems+BoT-MD+By+DGXeon;Do+Support+PBA+MoDsYT;Thanks+To;Alien-Alfa+,AJMAL+aNd+PBA+Mods+TEam."
             alt="Typing SVG"
         />
     </a>
