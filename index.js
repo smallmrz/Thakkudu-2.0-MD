@@ -1,11 +1,11 @@
-//═══════[© 2022 Xeon Bot Inc.]════════\\
+//[© ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ]\\
 
 //~you can re-upload but tag my channel
 //or put my channel link in the description.
 //~you can recode or copy the codes but give
 //credit.
-//~Thank you to LORD BUDDHA, ME AND MY 
-//FAMILY.
+//~Thank you to Alien Alfa, PBA MODS
+//Xeon.
 
 //═══════[modules]════════\\
 require('./config')
@@ -96,11 +96,11 @@ Tol = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeURICom
 
 Description: ${metadata.desc}
 
-Welcome To Our Group Happy😋, Sometimes Loud😜, Usually Messy🤥, Full Of Love🥰, HOME😌!!`} )
+ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴜʀ ʜᴇᴠᴇɴ...🐿️`} )
                 } else if (anu.action == 'remove') {
                     XeonBotInc.sendMessage(anu.id, { image: Tol, contextInfo: { mentionedJid: [num] }, caption: `@${num.split("@")[0]} Left ${metadata.subject}
 
-I'm not sure if it was a goodbye charm, but it was fun while it lasted 😌✨` })
+“ɴᴇᴠᴇʀ sᴀʏ ɢᴏᴏᴅʙʏᴇ ʙᴇᴄᴀᴜsᴇ ɢᴏᴏᴅʙʏᴇ ᴍᴇᴀɴs ɢᴏɪɴɢ ᴀᴡᴀʏ ᴀɴᴅ ɢᴏɪɴɢ ᴀᴡᴀʏ ᴍᴇᴀɴs ғᴏʀɢᴇᴛᴛɪɴɢ.”🍂🍃` })
                 }
             }
         } catch (err) {
@@ -178,16 +178,16 @@ I'm not sure if it was a goodbye charm, but it was fun while it lasted 😌✨` 
         const { connection, lastDisconnect } = update	    
         if (connection === 'close') {
         let reason = new Boom(lastDisconnect?.error)?.output?.statusCode
-            if (reason === DisconnectReason.badSession) { console.log(`🦄Bad Session File, Please Delete Session and Scan Again`); process.exit(); }
-            else if (reason === DisconnectReason.connectionClosed) { console.log("🦄Connection closed, Reconnecting...."); startXeonBotInc(); }
-            else if (reason === DisconnectReason.connectionLost) { console.log("🦄Connection Lost from Server, Reconnecting..."); startXeonBotInc(); }
-            else if (reason === DisconnectReason.connectionReplaced) { console.log("🦄Connection Replaced, Another New Session Opened, Please Close Current Session First"); process.exit(); }
-            else if (reason === DisconnectReason.loggedOut) { console.log(`🦄Device Logged Out, Please Delete Session And Scan Again.`); process.exit(); }
-            else if (reason === DisconnectReason.restartRequired) { console.log("🦄Restart Required, Restarting..."); startXeonBotInc(); }
-            else if (reason === DisconnectReason.timedOut) { console.log("🦄Connection TimedOut, Reconnecting..."); startXeonBotInc(); }
+            if (reason === DisconnectReason.badSession) { console.log(`🐋Bad Session File, Please Delete Session and Scan Again`); process.exit(); }
+            else if (reason === DisconnectReason.connectionClosed) { console.log("🐋Connection closed, Reconnecting...."); startXeonBotInc(); }
+            else if (reason === DisconnectReason.connectionLost) { console.log("🐋Connection Lost from Server, Reconnecting..."); startXeonBotInc(); }
+            else if (reason === DisconnectReason.connectionReplaced) { console.log("🐋Connection Replaced, Another New Session Opened, Please Close Current Session First"); process.exit(); }
+            else if (reason === DisconnectReason.loggedOut) { console.log(`🐋Device Logged Out, Please Delete Session And Scan Again.`); process.exit(); }
+            else if (reason === DisconnectReason.restartRequired) { console.log("🐋Restart Required, Restarting..."); startXeonBotInc(); }
+            else if (reason === DisconnectReason.timedOut) { console.log("🐋Connection TimedOut, Reconnecting..."); startXeonBotInc(); }
             else { console.log(`Unknown DisconnectReason: ${reason}|${connection}`) }
         }
-        console.log('🦄Connected...', update)
+        console.log('😃Connected...', update)
     })
     
     XeonBotInc.ev.on('creds.update', saveState)
