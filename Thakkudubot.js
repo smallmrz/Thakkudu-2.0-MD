@@ -1,4 +1,4 @@
-//[© Thakkudu 2.1 MD]\\
+//[© ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ]\\
 
 //~you can re-upload but tag my channel
 //or put my channel link in the description.
@@ -2642,7 +2642,7 @@ case 'downloadmenu': {
                             hydratedContentText: okemenu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2679,7 +2679,7 @@ case 'downloadmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2710,7 +2710,7 @@ case 'randommenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2742,7 +2742,7 @@ case 'funmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2782,7 +2782,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2816,7 +2816,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2874,7 +2874,7 @@ case 'horoscopemenukcodk': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2912,7 +2912,7 @@ case 'convertmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2952,7 +2952,7 @@ case 'nocategorymenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -2989,7 +2989,7 @@ case 'databasemenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -3021,7 +3021,7 @@ case 'anonymouschatmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -3053,7 +3053,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -3090,7 +3090,7 @@ break
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
@@ -3231,7 +3231,7 @@ break
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./ThakkuduMedia/thakkudu2.0.jpg')},
-                            hydratedFooterText: `Thakkudu 2.0 MD`,
+                            hydratedFooterText: `ᴛʜᴀᴋᴋᴜᴅᴜ 𝟸.𝟶 ᴍᴅ`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
