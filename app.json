@@ -1,9 +1,9 @@
 {
 	"name": "Thakkudu 2.0-MD",
 	"description": "Fully Costamisable BOT By Thakkudu 2.0-MD",
-	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
+	"repository": "https://github.com/I4MBetAZ/Thakkudu-2.0-MD",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
-	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
+	"keywords": ["multi-device","Thakkudu 2.0-MD"],
 	
 	"env": { 
     "OWNER_NUMBER": {
