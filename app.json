@@ -1,78 +1,10 @@
 {
-	"name": "Thakkudu 2.0-MD",
-	"description": "Fully Costamisable BOT By Thakkudu 2.0-MD",
-	"repository": "https://github.com/I4MBetAZ/Thakkudu-2.0-MD",
-	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
-	"keywords": ["multi-device","Thakkudu 2.0-MD"],
-	
-	"env": { 
-    "OWNER_NUMBER": {
-            "description": "Pleas enter Number Of the Owner.",
-            "required": false,
-            "value": "447405935255"
-        }, 
-	"S_PACK": {
-            "description": "Sticker Pack Name (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "Alien"
-        }, 
-	"S_AUTHOR": {
-            "description": "Sticker author name. (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "Alfa"
-        }, 
-     "PREMIUM": {
-            "description": "Premium user number (leave it if you Wish to use the default)",
-            "required": false
-        },
-    "LISTICON": {
-            "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
-            "required": false
-        },
-    "WATERMARK": {
-            "description": "watermark for the bot (leave it if you Wish to use the default)",
-            "required": false
-        },
-    "BOTNAME": {
-            "description": "Name of The BOT (leave it if you Wish to use the default)",
-            "required": false
-        },
-    "ICON": {
-            "description": "Icon to appear in menu (leave it if you Wish to use the default)",
-            "required": false
-        },
-    "MAIL": {
-            "description": "Premium user number (leave it if you Wish to use the default)",
-            "required": false
-        },
-    "YOUTUBE": {
-            "description": "Youtube Channel Link (leave it if you dont have one)",
-            "required": false
-        },
-    "GITHUB": {
-            "description": "Your Github Account URL (leave it if you dont have one)",
-            "required": false
-        },
-    "INSTAGRAM": {
-            "description": "Your Instagram Id URL (leave it if you dont have one)",
-            "required": false
-        },
-    "NAME": {
-            "description": "Owner Name (leave it if you Wish to use the default)",
-            "required": false
-        },
-    "FOOTER": {
-            "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
-            "required": false
-        },
-     
-    "ZENS_API": {
-            "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
-            "required": false
-        }
-	},
-	
-	"buildpacks": [
+  "name": "Thakkudu 2.0-MD",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/I4MBetAZ/Thakkudu-2.0-MD",
+  "logo": "https://telegra.ph/file/2ce1cdc8ac3775ac4ee9b.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
     {
       "url": "heroku/nodejs"
     },
